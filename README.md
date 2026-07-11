@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there! 👋 I'm Muhammad Zaigham Asif
 
-<!--
-**MuhammadZaighamAsif/MuhammadZaighamAsif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at FAST NUCES Lahore
 
-Here are some ideas to get you started:
+I'm passionate about building **Full Stack web applications** and **AI-powered software** that solve real-world problems. I enjoy learning new technologies, contributing to challenging projects, and continuously improving my software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Exploring
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 MERN Stack Development
+- ⚡ FastAPI
+- 🏗️ System Design
+- 🐳 Docker & Kubernetes
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BS Software Engineering student at FAST NUCES Lahore
+- 💻 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🚀 Interested in scalable and high-performance software systems
+- 📚 Always learning new technologies and best development practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Python • Java • JavaScript • C++ • SQL • C
+
+### Frontend
+HTML • CSS • React • Tailwind CSS
+
+### Backend
+Node.js • Express.js • Flask • Spring Boot • FastAPI
+
+### Databases
+MongoDB • MySQL • SQLite
+
+### Tools & Technologies
+Git • GitHub • VS Code • Linux
