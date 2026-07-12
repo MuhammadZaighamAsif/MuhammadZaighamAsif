@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zaigham Asif</h1>
+<h1 align="center">Hi , I'm Muhammad Zaigham Asif</h1>
 
 <h3 align="center">
 Software Engineering Student @ FAST NUCES Lahore • Full Stack Developer • AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/MuhammadZaighamAsif">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Software Engineering student at FAST NUCES Lahore** with a strong interest in **Full Stack Development**, **Artificial Intelligence**, and **Machine Learning**.
 
@@ -61,7 +61,7 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgre,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
 </p>
 
 ### Tools & Technologies
@@ -94,19 +94,14 @@ Electricity Consumption System.
 ## 📊 GitHub Statistics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadZaighamAsif&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuhammadZaighamAsif&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZaighamAsif&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammadZaighamAsif&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=MuhammadZaighamAsif&theme=tokyonight&hide_border=true"/>
-
 </p>
-
 ---
 
 ## 📈 Contribution Graph
@@ -158,8 +153,8 @@ Electricity Consumption System.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://muhammadzaighamasif.vercel.app/">
-<img src="https://skillicons.dev/icons?i=devto" />
+<a href="https://muhammadzaighamasif.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </p>
