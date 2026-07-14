@@ -100,8 +100,8 @@ Electricity Consumption System.
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MuhammadZaighamAsif&theme=tokyonight&hide_border=true"/>
-</p>
+[<img src="https://streak-stats.demolab.com?user=MuhammadZaighamAsif&theme=tokyonight&hide_border=true"/>
+](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZaighamAsif&theme=tokyo-night&hide_border=true&cache_seconds=60)</p>
 ---
 
 ## 📈 Contribution Graph
