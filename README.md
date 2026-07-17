@@ -88,6 +88,30 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 </table>
 
 ---
+### ⚙️ Backend
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><strong>Node.js</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br><strong>Express</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" width="48"/><br><strong>Flask</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br><strong>FastAPI</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48"/><br><strong>Spring</strong>
+</td>
+</tr>
+</table>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🤖 Zikr AI
