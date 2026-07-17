@@ -223,7 +223,7 @@ Electricity Consumption System.
 
 ##  Connect With Me
 
-<a href="https://github.com/MuhammadZaighamAsif">
+<a href="https://github.com/MuhammadZaighamAsif"  target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -231,11 +231,11 @@ Electricity Consumption System.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/zaigham-asif-5a5499240/">
+<a href="https://www.linkedin.com/in/zaigham-asif-5a5499240/"  target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://muhammadzaighamasif.vercel.app/">
+<a href="https://muhammadzaighamasif.vercel.app/"  target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
