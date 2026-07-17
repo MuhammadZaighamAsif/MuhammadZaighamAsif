@@ -69,8 +69,25 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 </td>
 </tr>
 </table>
----
 
+---
+### 🎨 Frontend
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br><strong>React</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br><strong>Tailwind</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48"/><br><strong>Vite</strong>
+</td>
+</tr>
+</table>
+
+---
 ## 📌 Featured Projects
 
 ### 🤖 Zikr AI
