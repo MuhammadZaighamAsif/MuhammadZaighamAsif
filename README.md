@@ -112,6 +112,26 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 
 ---
 
+### 🗄️ Databases
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br><strong>MongoDB</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><strong>MySQL</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br><strong>SQLite</strong>
+</td>
+</tr>
+</table>
+
+---
 ## 📌 Featured Projects
 
 ### 🤖 Zikr AI
