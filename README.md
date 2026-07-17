@@ -39,37 +39,36 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 ---
 
 ## 🛠️ Tech Stack
+### 💻 Languages
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css,sql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,spring" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
-</p>
-
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br><strong>Java</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br><strong>JavaScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><strong>C++</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48"/><br><strong>C</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br><strong>HTML5</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br><strong>CSS3</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><strong>SQL</strong>
+</td>
+</tr>
+</table>
 ---
 
 ## 📌 Featured Projects
