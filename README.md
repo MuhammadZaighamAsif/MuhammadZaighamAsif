@@ -71,6 +71,7 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 </table>
 
 ---
+
 ### 🎨 Frontend
 
 <table>
@@ -88,6 +89,7 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 </table>
 
 ---
+
 ### ⚙️ Backend
 
 <table>
@@ -132,6 +134,31 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 </table>
 
 ---
+
+### 🛠️ Tools & Technologies
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br><strong>Git</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br><strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><strong>VS Code</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br><strong>Linux</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br><strong>Figma</strong>
+</td>
+</tr>
+</table>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🤖 Zikr AI
