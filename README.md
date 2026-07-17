@@ -18,28 +18,28 @@ I'm a **Software Engineering student at FAST NUCES Lahore** with a strong intere
 
 I enjoy transforming ideas into real-world applications by building scalable, user-friendly, and efficient software solutions. I'm continuously learning modern technologies and improving my problem-solving and software engineering skills.
 
-- 🎓 BS Software Engineering @ FAST NUCES Lahore
-- 💻 Passionate about Full Stack Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🚀 Interested in scalable software architecture
-- 🌱 Currently learning Docker, Kubernetes, and System Design
-- 📚 Always eager to learn new technologies
+-  BS Software Engineering @ FAST NUCES Lahore
+-  Passionate about Full Stack Development
+-  Exploring Artificial Intelligence & Machine Learning
+-  Interested in scalable software architecture
+-  Currently learning Docker, Kubernetes, and System Design
+-  Always eager to learn new technologies
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🌐 MERN Stack Development
-- ⚡ FastAPI
-- 🏗️ System Design
-- 🐳 Docker & Kubernetes
+-  Artificial Intelligence
+-  Machine Learning
+-  MERN Stack Development
+-  FastAPI
+-  System Design
+-  Docker & Kubernetes
 
 ---
 
-## 🛠️ Tech Stack
-### 💻 Languages
+##  Tech Stack
+###  Languages
 
 <table>
 <tr>
@@ -72,7 +72,7 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 
 ---
 
-### 🎨 Frontend
+###  Frontend
 
 <table>
 <tr>
@@ -90,7 +90,7 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 
 ---
 
-### ⚙️ Backend
+###  Backend
 
 <table>
 <tr>
@@ -114,7 +114,7 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 
 ---
 
-### 🗄️ Databases
+###  Databases
 
 <table>
 <tr>
@@ -135,7 +135,7 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 
 ---
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 
 <table>
 <tr>
@@ -159,26 +159,26 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🤖 Zikr AI
+###  Zikr AI
 AI-powered Islamic Assistant built using NLP, FAISS, and Sentence Transformers.
 
-### 📄 TalentMiner
+###  TalentMiner
 AI-powered Resume Screening and Job Matching System.
 
 ### 🚑 ResQ
 Disaster Relief Management System developed using Spring Boot.
 
-### 💬 Nexus
+###  Nexus
 Collaboration and Meeting Platform built with the MERN Stack.
 
-### ⚡ ECS
+###  ECS
 Electricity Consumption System.
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadZaighamAsif&show_icons=true&theme=tokyonight&hide_border=cache_seconds=60"/>
@@ -191,7 +191,7 @@ Electricity Consumption System.
 </p>
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 
@@ -201,7 +201,7 @@ Electricity Consumption System.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Advanced React
 - FastAPI
@@ -213,41 +213,36 @@ Electricity Consumption System.
 
 ---
 
-## 🎯 2026 Goals
+##  2026 Goals
 
-- 🚀 Build production-ready SaaS applications
-- 🤖 Develop impactful AI-powered solutions
-- 🌍 Contribute to Open Source
-- 📚 Master System Design
-- ☁️ Learn Cloud Technologies (AWS/Azure)
-- 💼 Secure a Software Engineering role
+-  Build production-ready SaaS applications
+-  Develop impactful AI-powered solutions
+-  Contribute to Open Source
+-  Master System Design
+-  Learn Cloud Technologies (AWS/Azure)
+-  Secure a Software Engineering role
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/zaigham-asif-5a5499240/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://github.com/MuhammadZaighamAsif">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:zaighamasif06@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/MuhammadZaighamAsif">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://www.linkedin.com/in/zaigham-asif-5a5499240/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://muhammadzaighamasif.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white">
+<a href="https://muhammadzaighamasif.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-</p>
 
 ---
-
 <p align="center">
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
