@@ -70,7 +70,6 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 </tr>
 </table>
 
----
 
 ###  Frontend
 
@@ -88,7 +87,6 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 </tr>
 </table>
 
----
 
 ###  Backend
 
@@ -112,7 +110,6 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 </tr>
 </table>
 
----
 
 ###  Databases
 
@@ -133,7 +130,6 @@ I enjoy transforming ideas into real-world applications by building scalable, us
 </tr>
 </table>
 
----
 
 ###  Tools & Technologies
 
@@ -167,7 +163,7 @@ AI-powered Islamic Assistant built using NLP, FAISS, and Sentence Transformers.
 ###  TalentMiner
 AI-powered Resume Screening and Job Matching System.
 
-### 🚑 ResQ
+###  ResQ
 Disaster Relief Management System developed using Spring Boot.
 
 ###  Nexus
@@ -189,6 +185,7 @@ Electricity Consumption System.
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=MuhammadZaighamAsif&theme=tokyonight&hide_border=true&cache_seconds=60"/>
 </p>
+
 ---
 
 ##  Contribution Graph
