@@ -194,7 +194,7 @@ Electricity Consumption System.
 
 </p>
 
----
+--- 
 
 ##  Currently Learning
 
