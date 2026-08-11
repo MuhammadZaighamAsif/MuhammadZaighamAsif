@@ -177,15 +177,11 @@ Electricity Consumption System.
 ##  GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZaighamAsif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MuhammadZaighamAsif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZaighamAsif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadZaighamAsif&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadZaighamAsif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
