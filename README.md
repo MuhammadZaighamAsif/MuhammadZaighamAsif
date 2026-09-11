@@ -179,7 +179,6 @@ Electricity Consumption System.
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MuhammadZaighamAsif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadZaighamAsif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
@@ -189,11 +188,8 @@ Electricity Consumption System.
 ##  Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZaighamAsif&theme=tokyo-night&hide_border=true&cache_seconds=60"/>
-
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZaighamAsif&hide_border=true&background=0D1117&stroke=0D1117&ring=E8441A&fire=E8441A&currStreakLabel=4B6EF5&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak stats"/>
 </p>
-
 --- 
 
 ##  Currently Learning
